@@ -10,6 +10,9 @@ This repo will be used as a public repo until I graduated from college.
 
 Assignment Log
 ==========
+- 2020-12-05
+   - Added Artificial Intelligence/NLP - Pre Processing
+
 - 2020-10-13
    - Added Artificial Intelligence/bayes_theorem.py
 
@@ -19,6 +22,9 @@ Assignment Log
 
 Repository Update Log
 ==========
+- 2020-12-05
+	- Modified the README.rst file.
+	
 - 2020-10-13
    - Modified the README.rst file.
    
