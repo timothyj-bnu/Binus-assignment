@@ -10,7 +10,7 @@ This repo will be used as a public repo until I graduated from college.
 
 Assignment Log
 ==========
-- 2020-16-12
+- 2020-12-16
 	- Added Artificial Intelligence/Computer Vision - Edge Detection
 
 - 2020-12-05
