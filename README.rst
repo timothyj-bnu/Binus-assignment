@@ -10,6 +10,9 @@ This repo will be used as a public repo until I graduated from college.
 
 Assignment Log
 ==========
+- 2020-16-12
+	- Added Artificial Intelligence/Computer Vision - Edge Detection
+
 - 2020-12-05
    - Added Artificial Intelligence/NLP - Pre Processing
 
@@ -22,6 +25,10 @@ Assignment Log
 
 Repository Update Log
 ==========
+- 2020-12-16
+	- Modified the README.rst file.
+	- Reorganized Artificial Intelligence Folder
+
 - 2020-12-05
 	- Modified the README.rst file.
 	
