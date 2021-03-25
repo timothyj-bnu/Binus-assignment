@@ -40,3 +40,6 @@ Repository Update Log
    
 - 2020-09-19
    - Created this repository.
+   
+Useful commands:
+   alias graph="git log --all --decorate --oneline --graph"
